@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: demo
+Version: 0.0.1
+Summary: Basis expansion for 1D quantum potential.
+Home-page: https://github.com/jerjorg/782
+Author: Jeremy J Jorgensen
+Author-email: jerjorg@gmail.com
+License: MIT
+Description: # demo
+        This is the demo readme
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
