@@ -9,5 +9,4 @@ deps=
     codecov
 commands=
     coverage run --source=demo -m pytest
-    codecov
-codecov --token=e921210a-9fb3-4a40-b072-2c9492aafa02
+    codecov --token=e921210a-9fb3-4a40-b072-2c9492aafa02
