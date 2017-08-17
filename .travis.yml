@@ -6,10 +6,8 @@ python:
 install:
   - pip install .
   - pip install tox
-  - pip install codecov
 # command to run tests
 script: tox
-  - coverage run tests.test_something.py
 
 after_success:
 	- codecov
